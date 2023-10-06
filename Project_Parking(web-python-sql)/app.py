@@ -4,6 +4,9 @@ import hashlib
 
 app = Flask(__name__)
 
+# Configuración para desactivar la caché de archivos estáticos
+app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
+
 #database connection
 mydb = mysql.connector.connect(
     host = "localhost",
@@ -17,6 +20,10 @@ cursor = mydb.cursor()
 @app.route('/')
 def index():
     return render_template('./index.html')
+
+@app.route('/registration_complete')
+def registration_complete():
+    return render_template('./registration_complete.html')
 
 @app.route('/login', methods = ['GET', 'POST'])
 def login():
@@ -52,7 +59,7 @@ def registration():
         cursor.execute(sql, val)
         mydb.commit()
 
-        return redirect(url_for('index'))
+        return redirect(url_for('registration_complete'))
 
     return render_template('registration.html')
 

@@ -29,8 +29,10 @@ header {
 }
 
 .logo img {
-    width: 40px; /* Ajusta el tamaño del logo según tus necesidades */
+    width: 80px; /* Ajusta el tamaño del logo según tus necesidades */
     margin-right: 10px;
+    background-color: white;
+    border-radius: 5px;
 }
 
 nav ul {
@@ -44,13 +46,13 @@ nav li {
     transition: color 0.3s; /* Transición suave del color */
 }
 
-nav li:hover {
-    color: #a03939; /* Cambia el color al pasar el mouse */
+nav a {
+    color: white;
+    text-decoration: none;
 }
 
-nav a {
-    color: #fff;
-    text-decoration: none;
+nav a:hover {
+    color: gray;
 }
 
 main {
