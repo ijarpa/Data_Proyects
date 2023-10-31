@@ -1,31 +1,3 @@
-// document.getElementById('reservation-form').addEventListener('submit', function(event) {
-//     event.preventDefault();
-
-//     const formElements = this.elements;
-//     const parkingId = formElements['parking-id'].value;
-//     const startDate = formElements['start-date'].value;
-//     const endDate = formElements['end-date'].value;
-//     const status = formElements['status'].value;
-
-//     // Enviar los datos al servidor
-//     fetch('/api/reservation', {
-//         method: 'POST',
-//         headers: {
-//             'Content-Type': 'application/json'
-//         },
-//         body: JSON.stringify({
-//             parkingId: parkingId,
-//             startDate: startDate,
-//             endDate: endDate,
-//             status: status
-//         })
-//     })
-//     .then(response => response.json())
-//     .then(data => {
-//         console.log(data);
-//     });
-// });
-
 // Obtener los estacionamientos
 fetch('/api/parking')
     .then(response => response.json())
@@ -79,3 +51,66 @@ fetch('/api/parking')
     });
 
 
+document.getElementById('reservation-form').addEventListener('submit', function(event) {
+    event.preventDefault();
+
+    const parkingList = document.getElementById('parking-list');
+    const selectedParkings = parkingList.querySelectorAll('li');
+
+    selectedParkings.forEach(parking => {
+        const parkingId = parking.querySelector('[name="parking-id"]').value;
+        const status = parking.querySelector('[name="status"]').value;
+        const startDate = parking.querySelector('[name="start-date"]').value;
+        const endDate = parking.querySelector('[name="end-date"]').value;
+
+        const data = {
+            parking_id: parkingId,
+            status: status,
+            start_date: startDate,
+            end_date: endDate
+        };
+
+        fetch('/api/parking/update', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(data)
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log(data.message);
+        });
+    });
+});
+    
+    
+
+document.getElementById('parking-list').addEventListener('click', function(event) {
+    if (event.target.classList.contains('save-button')) {
+        console.log('click en save')
+        const parkingId = event.target.dataset.parkingId;
+        const status = document.querySelector(`[name="status"][data-parking-id="${parkingId}"]`).value;
+        const startDate = document.querySelector(`[name="start-date"][data-parking-id="${parkingId}"]`).value;
+        const endDate = document.querySelector(`[name="end-date"][data-parking-id="${parkingId}"]`).value;
+
+        const data = {
+            parking_id: parkingId,
+            status: status,
+            start_date: startDate,
+            end_date: endDate
+        };
+
+        fetch('/api/parking/update', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(data)
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log(data.message);
+        });
+    }
+});

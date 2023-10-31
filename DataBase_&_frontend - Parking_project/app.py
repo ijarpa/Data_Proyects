@@ -80,20 +80,20 @@ def get_parking():
 
     return jsonify(parking_json)
 
-# @app.route('/api/reservation', methods=['POST'])
-# def add_reservation():
-#     data = request.get_json()
-#     parking_id = data['parkingId']
-#     start_date = data['startDate']
-#     end_date = data['endDate']
-#     status = data['status']
+@app.route('/api/parking/update', methods=['POST'])
+def update_parking():
+    data = request.get_json()
 
-#     # Insertar en la base de datos (Asegúrate de tener la conexión y cursor definidos)
-#     cursor.execute("INSERT INTO reservation (parking_id, start_date, end_date, status) VALUES (%s, %s, %s, %s)",
-#                    (parking_id, start_date, end_date, status))
-#     mydb.commit()
+    parking_id = data['parking_id']
+    status = data['status']
+    start_date = data['start_date']
+    end_date = data['end_date']
 
-#     return jsonify({'message': 'Reserva agregada con éxito!'})
+    cursor.execute("UPDATE parking SET status = %s, start_date = %s, end_date = %s WHERE id = %s", (status, start_date, end_date, parking_id))
+    mydb.commit()
+
+    return jsonify({'message': 'Actualización exitosa'})
+
 
 @app.route('/reservation')
 def reservation():
