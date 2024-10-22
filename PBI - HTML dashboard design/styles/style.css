@@ -1,20 +1,14 @@
-* {
-    font-size: 25px;
-    list-style: none;
-    transition: .3s;
-    color: rgb(73, 188, 192);
+img {
+    width: 450px;
+    transition: 0.4s;
 }
 
-li {
-    display: flex;
-    margin: 10px auto;
-    border: 1px solid red;
-    height: 50px;
-    align-items: center;
+img:hover {
+    opacity: 0.85;
+    transition: 0.4s;
 }
 
-* li:hover {
-    font-size: 1.2em;
-    color: rgb(44, 135, 138);
+.player {
+
 }
 
