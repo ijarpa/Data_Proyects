@@ -31,8 +31,6 @@ Each folder highlights a real-world or simulated business case, exploring insigh
   Python-generated synthetic dataset and Power BI dashboard analyzing fraud patterns by geography, payment method, and behavior.
 
 ### 📊 Power BI Projects
-- **HTML-based Anime Dashboard**  
-  A uniquely styled dashboard using HTML elements in Power BI, focused on anime stats.
 - **HTML Dashboard Design**  
   Custom Power BI visuals using HTML/CSS integration for a modern interface.
 - **PBI Resume Dashboard**  
