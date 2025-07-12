@@ -1,0 +1,201 @@
+id_cliente,nombre,email,telefono,ciudad,tipo_cliente
+cliente_1,Teresa Cynthia Castillo Ruiz,teresa.cynthia.castillo.ruiz.1@email.com,+56 2 3881 0244,La Serena,nuevo
+cliente_2,Rosa Toro,rosa.toro.2@email.com,+56 9 6534 0426,Santiago,nuevo
+cliente_3,Camila Lucila Araneda Apablaza,camila.lucila.araneda.apablaza.3@email.com,+56 2 3697 0842,Iquique,premium
+cliente_4,George Maximiliano Hurtado Quiroga,george.maximiliano.hurtado.quiroga.4@email.com,+56 800 763 553,Santiago,nuevo
+cliente_5,Miguel Ángel Norambuena Bustos,miguel.ángel.norambuena.bustos.5@email.com,+56 9 9563 1793,Puerto Montt,premium
+cliente_6,Maite Vargas,maite.vargas.6@email.com,+56 53 210 9469,Rancagua,premium
+cliente_7,Paulina María Aguilera Mella,paulina.maría.aguilera.mella.7@email.com,+56 53 286 4807,La Serena,premium
+cliente_8,Gladys Reyes Mendoza,gladys.reyes.mendoza.8@email.com,+56 9 6958 2936,Puerto Montt,regular
+cliente_9,Margarita Sánchez Gómez,margarita.sánchez.gómez.9@email.com,+56 2 3134 4720,Talca,regular
+cliente_10,Salvador José Martinez Valenzuela,salvador.josé.martinez.valenzuela.10@email.com,+56 33 396 0523,Puerto Montt,nuevo
+cliente_11,Luciana Ana Jorquera González,luciana.ana.jorquera.gonzález.11@email.com,+56 800 337 081,Talca,nuevo
+cliente_12,Priscila Florencia Vargas Montoya,priscila.florencia.vargas.montoya.12@email.com,+56 2 2700 5753,Iquique,regular
+cliente_13,Carolina Díaz Morales,carolina.díaz.morales.13@email.com,+56 9 8779 6224,Concepción,regular
+cliente_14,Marie Tapia Tapia,marie.tapia.tapia.14@email.com,+56 2 2475 2824,Iquique,regular
+cliente_15,Bryan Cornejo,bryan.cornejo.15@email.com,+56 600 859 868,Rancagua,regular
+cliente_16,Patricio Silva Maldonado,patricio.silva.maldonado.16@email.com,+56 2 3827 4780,Temuco,premium
+cliente_17,Sandra Aguilar Zambrano,sandra.aguilar.zambrano.17@email.com,+56 9 8371 8364,Rancagua,regular
+cliente_18,Jason Gaete,jason.gaete.18@email.com,+56 9 5709 5315,Puerto Montt,regular
+cliente_19,Catalina Galdames Salazar,catalina.galdames.salazar.19@email.com,+56 2 2177 5892,La Serena,premium
+cliente_20,Williams Cristóbal Jiménez Salgado,williams.cristóbal.jiménez.salgado.20@email.com,+56 41 230 0590,Iquique,regular
+cliente_21,Emilio Pedro Leyton Rosas,emilio.pedro.leyton.rosas.21@email.com,+56 2 2354 4959,Puerto Montt,regular
+cliente_22,Ruth Dafne Hernández González,ruth.dafne.hernández.gonzález.22@email.com,+56 35 339 3080,Iquique,nuevo
+cliente_23,Lorena Melany Salazar Norambuena,lorena.melany.salazar.norambuena.23@email.com,+56 2 2406 3121,Iquique,nuevo
+cliente_24,Juan Muñoz-Godoy,juan.muñoz-godoy.24@email.com,+56 9 3893 6888,Puerto Montt,premium
+cliente_25,James José Pardo Valencia,james.josé.pardo.valencia.25@email.com,+56 34 358 4748,La Serena,nuevo
+cliente_26,Elena Juana Aguayo Arriagada,elena.juana.aguayo.arriagada.26@email.com,+56 800 116 108,Puerto Montt,regular
+cliente_27,Max Arturo González Araya,max.arturo.gonzález.araya.27@email.com,+56 33 277 4309,Iquique,regular
+cliente_28,Francisco Luis Tobar Villa,francisco.luis.tobar.villa.28@email.com,+56 600 797 763,Concepción,premium
+cliente_29,Daniel Mario Gaete Salazar,daniel.mario.gaete.salazar.29@email.com,+56 2 2160 5682,Temuco,regular
+cliente_30,Luis Robert Vega Lagos,luis.robert.vega.lagos.30@email.com,+56 2 3577 4923,Talca,regular
+cliente_31,Dora Flores Piña,dora.flores.piña.31@email.com,+56 2 2805 2652,Concepción,regular
+cliente_32,Cristóbal Efraín Garrido Oyarzo,cristóbal.efraín.garrido.oyarzo.32@email.com,+56 61 379 3204,Concepción,regular
+cliente_33,María Rojas Oyarzún,maría.rojas.oyarzún.33@email.com,+56 42 221 4034,Valparaíso,premium
+cliente_34,Javiera Ramírez,javiera.ramírez.34@email.com,+56 2 2452 2487,Concepción,regular
+cliente_35,Constanza Cynthia Escobar Contreras,constanza.cynthia.escobar.contreras.35@email.com,+56 9 7133 4293,Antofagasta,nuevo
+cliente_36,Celestino Sebastián Jara Vidal,celestino.sebastián.jara.vidal.36@email.com,+56 58 385 0183,Concepción,regular
+cliente_37,Fabián Matías Ramírez Jara,fabián.matías.ramírez.jara.37@email.com,+56 34 396 2496,Iquique,premium
+cliente_38,Cecilia Paola Donoso Castillo,cecilia.paola.donoso.castillo.38@email.com,+56 34 399 4632,Talca,nuevo
+cliente_39,Marcelo Álvarez,marcelo.álvarez.39@email.com,+56 2 2408 3510,Concepción,premium
+cliente_40,Montserrat Sandoval Salazar,montserrat.sandoval.salazar.40@email.com,+56 42 250 9940,Valparaíso,regular
+cliente_41,María Antonella Retamal Bravo,maría.antonella.retamal.bravo.41@email.com,+56 9 3750 4209,Valparaíso,nuevo
+cliente_42,Cristian Martínez,cristian.martínez.42@email.com,+56 61 382 2078,Puerto Montt,regular
+cliente_43,Lucía Patricia Aguilar Aguilera,lucía.patricia.aguilar.aguilera.43@email.com,+56 42 388 9458,Temuco,nuevo
+cliente_44,Roberto Bastián Alvarez Pérez,roberto.bastián.alvarez.pérez.44@email.com,+56 64 278 6237,Concepción,nuevo
+cliente_45,Valentina Romero Molina,valentina.romero.molina.45@email.com,+56 2 3681 4437,Antofagasta,premium
+cliente_46,Carlos Pérez Molina,carlos.pérez.molina.46@email.com,+56 600 694 341,Santiago,regular
+cliente_47,Julieta Mansilla Mendoza,julieta.mansilla.mendoza.47@email.com,+56 600 706 739,Temuco,regular
+cliente_48,Elizabeth Ana Bravo Pinto,elizabeth.ana.bravo.pinto.48@email.com,+56 2 3254 7726,Antofagasta,regular
+cliente_49,Freddy Juan Quijada Tobar,freddy.juan.quijada.tobar.49@email.com,+56 52 340 0689,Temuco,nuevo
+cliente_50,Jacob Álvaro Torres Catalán,jacob.álvaro.torres.catalán.50@email.com,+56 2 3323 0672,Puerto Montt,premium
+cliente_51,Hernán Cristian Guajardo Palma,hernán.cristian.guajardo.palma.51@email.com,+56 2 2397 8732,Concepción,regular
+cliente_52,Paulina Matamala Vásquez,paulina.matamala.vásquez.52@email.com,+56 41 240 9534,Rancagua,regular
+cliente_53,Juan Hernández Maldonado,juan.hernández.maldonado.53@email.com,+56 9 4555 7659,La Serena,nuevo
+cliente_54,Laura Navarrete Poblete,laura.navarrete.poblete.54@email.com,+56 2 2796 5045,Santiago,regular
+cliente_55,Benjamin Luis Reyes Contreras,benjamin.luis.reyes.contreras.55@email.com,+56 41 327 2251,Antofagasta,regular
+cliente_56,Rocío Paula Vallejos Molina,rocío.paula.vallejos.molina.56@email.com,+56 35 373 8872,La Serena,nuevo
+cliente_57,María Isabella Flores Castillo,maría.isabella.flores.castillo.57@email.com,+56 32 225 2792,Rancagua,regular
+cliente_58,Emanuel Araneda Toro,emanuel.araneda.toro.58@email.com,+56 57 339 9194,Concepción,regular
+cliente_59,Teresa Catalina Alfaro Villarroel,teresa.catalina.alfaro.villarroel.59@email.com,+56 2 3314 7464,Puerto Montt,premium
+cliente_60,Belén Elizabeth Castillo Seguel,belén.elizabeth.castillo.seguel.60@email.com,+56 800 102 706,Puerto Montt,premium
+cliente_61,Allison Fernanda Martínez Ahumada,allison.fernanda.martínez.ahumada.61@email.com,+56 52 382 2106,Iquique,premium
+cliente_62,Leonardo Leiva Pavez,leonardo.leiva.pavez.62@email.com,+56 2 3386 2868,Santiago,premium
+cliente_63,Alejandra Pinto,alejandra.pinto.63@email.com,+56 43 370 9320,Rancagua,regular
+cliente_64,Bruno Elvis Olguín Henríquez,bruno.elvis.olguín.henríquez.64@email.com,+56 63 235 1940,Santiago,premium
+cliente_65,Vicente Luis Ulloa Vidal,vicente.luis.ulloa.vidal.65@email.com,+56 72 358 8694,Valparaíso,regular
+cliente_66,Carla Figueroa Henríquez,carla.figueroa.henríquez.66@email.com,+56 32 345 7416,Concepción,nuevo
+cliente_67,María Ruth Hernández Aros,maría.ruth.hernández.aros.67@email.com,+56 72 393 9950,La Serena,regular
+cliente_68,Juan Armando Matus Oyarzo,juan.armando.matus.oyarzo.68@email.com,+56 33 320 9650,La Serena,nuevo
+cliente_69,José Rodolfo Segura Arenas,josé.rodolfo.segura.arenas.69@email.com,+56 2 3358 2324,Talca,premium
+cliente_70,Yanet Emily Zamorano Ruiz,yanet.emily.zamorano.ruiz.70@email.com,+56 34 247 4658,Rancagua,nuevo
+cliente_71,Luis Martín Troncoso Espinoza,luis.martín.troncoso.espinoza.71@email.com,+56 2 2964 5869,Valparaíso,regular
+cliente_72,Flor González Lizana,flor.gonzález.lizana.72@email.com,+56 61 274 6207,Concepción,regular
+cliente_73,Humberto Christopher Moncada González,humberto.christopher.moncada.gonzález.73@email.com,+56 75 346 7765,Temuco,regular
+cliente_74,María Catalán Sierra,maría.catalán.sierra.74@email.com,+56 42 242 1873,Talca,nuevo
+cliente_75,Bastián Daniel Sepúlveda Meléndez,bastián.daniel.sepúlveda.meléndez.75@email.com,+56 2 2111 6934,Antofagasta,nuevo
+cliente_76,Edgar Espinoza Yáñez,edgar.espinoza.yáñez.76@email.com,+56 9 3980 7426,Temuco,regular
+cliente_77,Francisca Flores Naranjo,francisca.flores.naranjo.77@email.com,+56 2 2496 2788,La Serena,premium
+cliente_78,Myriam Toledo,myriam.toledo.78@email.com,+56 2 3658 3697,Valparaíso,regular
+cliente_79,Julián Jiménez Rojas,julián.jiménez.rojas.79@email.com,+56 65 318 9811,La Serena,premium
+cliente_80,Alejandra Hurtado Candia,alejandra.hurtado.candia.80@email.com,+56 800 591 502,Puerto Montt,premium
+cliente_81,Nora Javiera Saldaña Márquez,nora.javiera.saldaña.márquez.81@email.com,+56 33 287 1004,Talca,premium
+cliente_82,Irma María Muñoz Oyarzún,irma.maría.muñoz.oyarzún.82@email.com,+56 51 315 8193,Concepción,regular
+cliente_83,Jessica Agustina López Reyes,jessica.agustina.lópez.reyes.83@email.com,+56 32 331 3963,Concepción,regular
+cliente_84,Rodrigo González,rodrigo.gonzález.84@email.com,+56 800 118 653,La Serena,regular
+cliente_85,Miguel Astorga Suazo,miguel.astorga.suazo.85@email.com,+56 800 289 061,Concepción,nuevo
+cliente_86,José Jorge Silva Tapia,josé.jorge.silva.tapia.86@email.com,+56 55 254 1247,Concepción,nuevo
+cliente_87,Jaime José Arancibia Cortés,jaime.josé.arancibia.cortés.87@email.com,+56 9 4105 9152,Valparaíso,premium
+cliente_88,Fabiola Mercado Bravo,fabiola.mercado.bravo.88@email.com,+56 600 121 332,Santiago,nuevo
+cliente_89,Pedro Arévalo Burgos,pedro.arévalo.burgos.89@email.com,+56 9 2243 1443,Iquique,premium
+cliente_90,Jorge Nicolás Sandoval Leal,jorge.nicolás.sandoval.leal.90@email.com,+56 9 2658 2034,Talca,regular
+cliente_91,Constanza Muñoz,constanza.muñoz.91@email.com,+56 2 3493 8374,Talca,regular
+cliente_92,Julia Emilia Pérez Moreno,julia.emilia.pérez.moreno.92@email.com,+56 9 9662 5896,Rancagua,premium
+cliente_93,Brandon Neftalí Fuentes-Tapia Parra,brandon.neftalí.fuentes-tapia.parra.93@email.com,+56 2 3539 8613,Temuco,regular
+cliente_94,Nelly Sara Garay Pereira,nelly.sara.garay.pereira.94@email.com,+56 32 265 4709,Talca,premium
+cliente_95,Julio Gonzalo Zambrano López,julio.gonzalo.zambrano.lópez.95@email.com,+56 2 2736 7347,Talca,regular
+cliente_96,Guillermo Lira-Carrasco,guillermo.lira-carrasco.96@email.com,+56 2 3883 1568,Rancagua,regular
+cliente_97,Franco Hernández Barraza,franco.hernández.barraza.97@email.com,+56 2 3705 2112,Antofagasta,nuevo
+cliente_98,José Pedro Cortés Martinez,josé.pedro.cortés.martinez.98@email.com,+56 41 359 4072,Valparaíso,premium
+cliente_99,Francisco Samuel Aliaga Carrillo,francisco.samuel.aliaga.carrillo.99@email.com,+56 65 339 6630,Iquique,premium
+cliente_100,Ángel Marco Salinas Vásquez,ángel.marco.salinas.vásquez.100@email.com,+56 800 969 639,Iquique,regular
+cliente_101,Juan José Quezada Valenzuela,juan.josé.quezada.valenzuela.101@email.com,+56 800 237 023,Talca,nuevo
+cliente_102,Valeria Constanza González González,valeria.constanza.gonzález.gonzález.102@email.com,+56 800 286 889,Iquique,nuevo
+cliente_103,Florencia Amalia Hurtado Vera,florencia.amalia.hurtado.vera.103@email.com,+56 75 350 7855,Talca,regular
+cliente_104,Marco Jorge Parra Riffo,marco.jorge.parra.riffo.104@email.com,+56 61 342 5624,Talca,regular
+cliente_105,José Francisco Aravena Tapia,josé.francisco.aravena.tapia.105@email.com,+56 2 3328 6376,Antofagasta,premium
+cliente_106,Juan Oyarzún Lucero,juan.oyarzún.lucero.106@email.com,+56 9 5535 2739,Santiago,premium
+cliente_107,Ashley Mariela Berríos Sandoval,ashley.mariela.berríos.sandoval.107@email.com,+56 600 682 269,Iquique,premium
+cliente_108,Evelyn Pérez,evelyn.pérez.108@email.com,+56 2 3580 2294,Rancagua,premium
+cliente_109,Carolina Flora Cáceres Pérez,carolina.flora.cáceres.pérez.109@email.com,+56 33 297 4535,Rancagua,premium
+cliente_110,Felipe Oñate,felipe.oñate.110@email.com,+56 9 5275 8794,Iquique,regular
+cliente_111,Carolina Carvajal Díaz,carolina.carvajal.díaz.111@email.com,+56 2 2222 1027,Valparaíso,nuevo
+cliente_112,Luz Catalán Cáceres,luz.catalán.cáceres.112@email.com,+56 33 376 9636,Talca,regular
+cliente_113,Petronila Edith Sepúlveda Inostroza,petronila.edith.sepúlveda.inostroza.113@email.com,+56 2 2282 7558,La Serena,nuevo
+cliente_114,Esteban Segundo Burgos Fierro,esteban.segundo.burgos.fierro.114@email.com,+56 9 3160 0712,Puerto Montt,nuevo
+cliente_115,Hugo Castro Gutiérrez,hugo.castro.gutiérrez.115@email.com,+56 2 3311 2245,Valparaíso,nuevo
+cliente_116,Benjamín Araya Altamirano,benjamín.araya.altamirano.116@email.com,+56 2 2318 9773,Valparaíso,regular
+cliente_117,Anaís Mónica Arévalo García,anaís.mónica.arévalo.garcía.117@email.com,+56 600 701 853,Santiago,premium
+cliente_118,Juan Leiva-Aravena Aguilera,juan.leiva-aravena.aguilera.118@email.com,+56 2 2709 8444,Temuco,nuevo
+cliente_119,Augusto Luis Rodríguez Orellana,augusto.luis.rodríguez.orellana.119@email.com,+56 2 3228 8083,Concepción,nuevo
+cliente_120,María Badilla Torres,maría.badilla.torres.120@email.com,+56 44 266 1312,Talca,nuevo
+cliente_121,Franco Alonso Céspedes Neira,franco.alonso.céspedes.neira.121@email.com,+56 44 250 8843,Puerto Montt,regular
+cliente_122,Katherinne Muñoz Acosta,katherinne.muñoz.acosta.122@email.com,+56 43 388 7976,Talca,regular
+cliente_123,Blanca Jenniffer Briones Rojas,blanca.jenniffer.briones.rojas.123@email.com,+56 2 2985 0368,Talca,regular
+cliente_124,Marcela Becerra,marcela.becerra.124@email.com,+56 32 299 2123,Valparaíso,premium
+cliente_125,Sofía Alejandra Lobos Cárcamo,sofía.alejandra.lobos.cárcamo.125@email.com,+56 2 2797 5894,Puerto Montt,nuevo
+cliente_126,Cristina Patricia Moraga Ortiz,cristina.patricia.moraga.ortiz.126@email.com,+56 600 281 139,La Serena,premium
+cliente_127,Paola Raquel Jara Hormazábal,paola.raquel.jara.hormazábal.127@email.com,+56 2 3145 5405,Rancagua,nuevo
+cliente_128,Camila Pino Medina,camila.pino.medina.128@email.com,+56 9 8840 6839,Rancagua,regular
+cliente_129,Oscar Alarcón,oscar.alarcón.129@email.com,+56 2 2659 1620,Concepción,regular
+cliente_130,Juan Meza Sepúlveda,juan.meza.sepúlveda.130@email.com,+56 51 327 1425,Iquique,nuevo
+cliente_131,Zulema Torres,zulema.torres.131@email.com,+56 44 377 7427,Iquique,nuevo
+cliente_132,Florencia Fuenzalida,florencia.fuenzalida.132@email.com,+56 2 3302 1386,Iquique,nuevo
+cliente_133,Andrés Valdebenito Peña,andrés.valdebenito.peña.133@email.com,+56 2 3166 3854,Concepción,regular
+cliente_134,David Gabriel Catalán Varela,david.gabriel.catalán.varela.134@email.com,+56 2 3564 4364,Puerto Montt,regular
+cliente_135,José Jaime Jara Figueroa,josé.jaime.jara.figueroa.135@email.com,+56 45 288 8318,Talca,regular
+cliente_136,Martha María Santibáñez Caballero,martha.maría.santibáñez.caballero.136@email.com,+56 34 353 8405,La Serena,nuevo
+cliente_137,Aurora Venegas Maldonado,aurora.venegas.maldonado.137@email.com,+56 43 376 0263,Talca,regular
+cliente_138,Ayelén Castro,ayelén.castro.138@email.com,+56 51 296 6057,Puerto Montt,regular
+cliente_139,María Anahí González Jara,maría.anahí.gonzález.jara.139@email.com,+56 2 2948 9421,Antofagasta,regular
+cliente_140,Oscar Vásquez,oscar.vásquez.140@email.com,+56 73 342 8576,Santiago,premium
+cliente_141,Viviana Paola Jaramillo Rivera,viviana.paola.jaramillo.rivera.141@email.com,+56 800 232 887,Rancagua,regular
+cliente_142,Roberto Alberto González Delgado,roberto.alberto.gonzález.delgado.142@email.com,+56 9 2643 1381,Rancagua,premium
+cliente_143,Miriam Isidora Rivera Lagos,miriam.isidora.rivera.lagos.143@email.com,+56 64 276 0110,Rancagua,nuevo
+cliente_144,Belén Antonella Araya Cea,belén.antonella.araya.cea.144@email.com,+56 2 2588 0260,Valparaíso,premium
+cliente_145,Hernán Miranda Fredes,hernán.miranda.fredes.145@email.com,+56 2 3847 4730,Puerto Montt,premium
+cliente_146,Carlos Juan Vivanco Lobos,carlos.juan.vivanco.lobos.146@email.com,+56 2 2627 2544,La Serena,regular
+cliente_147,Rocío Isidora Yáñez Hernández,rocío.isidora.yáñez.hernández.147@email.com,+56 2 3578 5929,Valparaíso,premium
+cliente_148,Angélica Javiera Contreras Fuentealba,angélica.javiera.contreras.fuentealba.148@email.com,+56 42 361 6627,Antofagasta,regular
+cliente_149,Camila Luz Chávez Aburto,camila.luz.chávez.aburto.149@email.com,+56 41 258 0562,Rancagua,nuevo
+cliente_150,Andrés Pedro Cabrera Muñoz,andrés.pedro.cabrera.muñoz.150@email.com,+56 32 217 4033,Antofagasta,regular
+cliente_151,Vicente Pablo Villegas Díaz,vicente.pablo.villegas.díaz.151@email.com,+56 72 389 0623,Temuco,nuevo
+cliente_152,Jorge Bastián Salas Cortés,jorge.bastián.salas.cortés.152@email.com,+56 800 908 980,Valparaíso,premium
+cliente_153,Clara Bustos Valenzuela,clara.bustos.valenzuela.153@email.com,+56 57 333 4313,Valparaíso,regular
+cliente_154,Ulises José Figueroa Meza,ulises.josé.figueroa.meza.154@email.com,+56 600 144 716,Concepción,premium
+cliente_155,Mercedes Leiva Castro,mercedes.leiva.castro.155@email.com,+56 2 2136 9264,Iquique,premium
+cliente_156,Teresa Vivanco,teresa.vivanco.156@email.com,+56 800 785 158,Temuco,premium
+cliente_157,Gustavo Cristian Ortiz Paredes,gustavo.cristian.ortiz.paredes.157@email.com,+56 33 365 0271,Concepción,nuevo
+cliente_158,Martina Trinidad Tapia Aguilar,martina.trinidad.tapia.aguilar.158@email.com,+56 800 891 812,La Serena,regular
+cliente_159,Leonardo Octavio Alfaro Olea,leonardo.octavio.alfaro.olea.159@email.com,+56 800 454 011,Iquique,premium
+cliente_160,Luis Giancarlo Godoy Sáez,luis.giancarlo.godoy.sáez.160@email.com,+56 600 129 386,Antofagasta,regular
+cliente_161,John Marcelo Pino Cabezas,john.marcelo.pino.cabezas.161@email.com,+56 58 236 3781,Puerto Montt,regular
+cliente_162,Isabel Chávez Bravo,isabel.chávez.bravo.162@email.com,+56 9 3317 3067,Talca,regular
+cliente_163,Vicente Figueroa González,vicente.figueroa.gonzález.163@email.com,+56 2 3579 8602,Iquique,premium
+cliente_164,Zulema Millaray Romero Bahamondes,zulema.millaray.romero.bahamondes.164@email.com,+56 2 2753 6598,Valparaíso,regular
+cliente_165,José Gonzalo Toledo Núñez,josé.gonzalo.toledo.núñez.165@email.com,+56 9 8219 8079,Iquique,regular
+cliente_166,Leidy Cecilia Bahamondes Hidalgo,leidy.cecilia.bahamondes.hidalgo.166@email.com,+56 600 653 732,La Serena,nuevo
+cliente_167,Rodrigo Joel Caro Jiménez,rodrigo.joel.caro.jiménez.167@email.com,+56 2 3549 4791,Antofagasta,nuevo
+cliente_168,Patricia Valeska López Valdés,patricia.valeska.lópez.valdés.168@email.com,+56 57 389 9001,Puerto Montt,regular
+cliente_169,Fabián Isaac Salamanca Contreras,fabián.isaac.salamanca.contreras.169@email.com,+56 9 5510 4175,La Serena,nuevo
+cliente_170,Magdalena Mondaca Paredes,magdalena.mondaca.paredes.170@email.com,+56 2 2234 7854,Temuco,nuevo
+cliente_171,Jorge Aníbal González Riquelme,jorge.aníbal.gonzález.riquelme.171@email.com,+56 9 3909 0149,Concepción,premium
+cliente_172,Leidy Ramos Bugueño,leidy.ramos.bugueño.172@email.com,+56 35 273 8722,La Serena,regular
+cliente_173,María Claudia Jofré Acevedo,maría.claudia.jofré.acevedo.173@email.com,+56 32 275 3303,Santiago,regular
+cliente_174,Marcela Díaz Tapia,marcela.díaz.tapia.174@email.com,+56 600 771 943,Iquique,nuevo
+cliente_175,Alex Martín Carmona Contreras,alex.martín.carmona.contreras.175@email.com,+56 44 319 1668,Concepción,nuevo
+cliente_176,Olga Paulina Flores Moreno,olga.paulina.flores.moreno.176@email.com,+56 52 276 3447,Talca,regular
+cliente_177,Omar Christian González Ortiz,omar.christian.gonzález.ortiz.177@email.com,+56 2 2616 9149,Puerto Montt,regular
+cliente_178,Erika Marjorie González Rodríguez,erika.marjorie.gonzález.rodríguez.178@email.com,+56 52 266 4695,Antofagasta,nuevo
+cliente_179,Rosa Maricel Valencia Barría,rosa.maricel.valencia.barría.179@email.com,+56 2 3840 8248,Iquique,premium
+cliente_180,Rolando Patricio Garrido Mansilla,rolando.patricio.garrido.mansilla.180@email.com,+56 9 4288 8314,Puerto Montt,regular
+cliente_181,Marisol Alejandra Núñez Castro,marisol.alejandra.núñez.castro.181@email.com,+56 9 5141 8738,Rancagua,nuevo
+cliente_182,Ignacio Martín Pérez Cárcamo,ignacio.martín.pérez.cárcamo.182@email.com,+56 43 387 0432,Talca,regular
+cliente_183,Fernando Moreno,fernando.moreno.183@email.com,+56 2 2343 4486,Valparaíso,premium
+cliente_184,René Miranda Andrade,rené.miranda.andrade.184@email.com,+56 57 217 1180,Iquique,regular
+cliente_185,Valentina Lucrecia Briones Maldonado,valentina.lucrecia.briones.maldonado.185@email.com,+56 600 126 600,Puerto Montt,regular
+cliente_186,Jorge Luis Bustos Riquelme,jorge.luis.bustos.riquelme.186@email.com,+56 32 256 3361,Concepción,nuevo
+cliente_187,Eliseo Lucas Cerda Aguilera,eliseo.lucas.cerda.aguilera.187@email.com,+56 41 265 4398,Rancagua,premium
+cliente_188,Hans Luciano Acevedo Rojas,hans.luciano.acevedo.rojas.188@email.com,+56 45 378 6993,Antofagasta,premium
+cliente_189,Rodrigo Tomás Sanhueza Rojas,rodrigo.tomás.sanhueza.rojas.189@email.com,+56 61 387 4404,Santiago,premium
+cliente_190,Raquel Paredes Ávila,raquel.paredes.ávila.190@email.com,+56 2 2422 6462,Puerto Montt,nuevo
+cliente_191,Alejandro Vargas Maldonado,alejandro.vargas.maldonado.191@email.com,+56 2 2860 2645,Valparaíso,nuevo
+cliente_192,Benjamín Ramírez,benjamín.ramírez.192@email.com,+56 800 622 890,Iquique,regular
+cliente_193,Isabella Catalina Bravo Sánchez,isabella.catalina.bravo.sánchez.193@email.com,+56 9 7124 1602,Temuco,premium
+cliente_194,Macarena Molina,macarena.molina.194@email.com,+56 42 393 9807,Santiago,nuevo
+cliente_195,Santiago Esparza Muñoz,santiago.esparza.muñoz.195@email.com,+56 58 372 4462,La Serena,nuevo
+cliente_196,Vicente Cofré,vicente.cofré.196@email.com,+56 2 2160 1375,Concepción,regular
+cliente_197,Martina Mireya Ortiz De La Fuente,martina.mireya.ortiz.de.la.fuente.197@email.com,+56 600 476 617,Santiago,premium
+cliente_198,Sofía Castillo,sofía.castillo.198@email.com,+56 9 7332 6087,Rancagua,premium
+cliente_199,José Damián Martínez Inostroza,josé.damián.martínez.inostroza.199@email.com,+56 2 3730 0612,Temuco,nuevo
+cliente_200,Martín Beltrán Cifuentes,martín.beltrán.cifuentes.200@email.com,+56 55 215 9744,La Serena,nuevo
