@@ -2,6 +2,9 @@
 
 Este repositorio contiene un **conjunto de datos ficticio** generado con Python, pensado como recurso educativo para aprender a utilizar **Power BI** y realizar análisis de ventas y clientes.
 
+## 📊 Dashboard Final
+![Fraud Detection Dashboard](./final_result/After.png)
+
 ## 📄 Descripción
 
 Se han generado dos archivos `.csv`:
@@ -39,7 +42,8 @@ pip install pandas faker
 ```
 ```bash
 contenido
-├── ventas_dataset.csv
-├── clientes_dataset.csv
+├── dataset_ventas.csv
+├── dataset_clientes.csv
+├── dataset_marcas.csv
 ├── dataset.ipynb (notebook con el script)
 └── README.md
