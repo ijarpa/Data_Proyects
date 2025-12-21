@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: stg_gym_data
+    description: "Vista limpia de datos del gimnasio"
+    columns:
+      - name: registro_id
+        description: "Clave primaria del gimnasio"
+        tests:
+          - unique: # Verifica que NO haya duplicados
+              severity: warn # Solo avísame, no pares el proceso
+          - not_null # Verifica que NO haya nulos
+
+      - name: peso_kg
+        tests:
+          - not_null
