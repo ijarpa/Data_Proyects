@@ -35,3 +35,6 @@ SELECT
     CURRENT_DATE as fecha_proceso
 
 FROM {{ ref('gym_data') }}
+WHERE 
+    "Weight_kg" IS NOT NULL
+    AND "Height_m" IS NOT NULL
